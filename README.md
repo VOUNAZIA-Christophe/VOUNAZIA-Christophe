@@ -1,40 +1,64 @@
-<div align="center">
-  
-  <h1>👋 Salut, je suis VOUNAZIA !</h1>
-  
-  
-  <p>🚀 Développeur Full stack junior passionné par le developpement d'application robuste</p>
-</div>
+<h1 align="center">Salut 👋, je suis VOUNAZIA-Christophe</h1>
 
----
-
-## 🧐 À Propos de Moi
-
-- 🔭 Je travaille actuellement sur : GESTION DES EMPLOYERS D'UNE ENTREPRISE
-- 🌱 J'apprends en ce moment : **<Nouvelle Technologie ou Langage que vous explorez>**
-- 👯 Je cherche à collaborer sur : **<Type de projets (ex: Open Source, projets en Python, Front-end React)>**
-- 💬 Comment me joindre : **<Votre Email professionnel ou votre Pseudo Discord>**
-- 🌐 Mon Portfolio/Blog : **[Votre Lien]**
-- ⚡ Fun fact : **<Une anecdote courte et amusante sur vous>**
-
----
-
-## 🛠️ Ma Stack Technique
-
-Affichez ici les badges des technologies que vous maîtrisez. Vous pouvez trouver les codes pour ces icônes sur des sites comme [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) ou en utilisant des générateurs.
-
-```markdown
-### Langages & Frameworks
-<p align="left">
-  <a href="#"><img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" alt="React" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" alt="Node.js" /></a>
+<p align="center">
+  Passionné par le développement backend, je conçois des applications robustes et bien structurées.  
+  J'aime particulièrement travailler avec Java et créer des systèmes complets pour la gestion (banques, hôpitaux, stocks, etc.).
 </p>
 
-### Bases de Données & Outils DevOps
+---
+
+## Mes trophés
+
 <p align="left">
-  <a href="#"><img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)" alt="AWS" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=VOUNAZIA-Christophe&theme=gruvbox&column=6&margin-w=6&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🧰 Technologies & outils
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge" alt="MVC"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOUNAZIA-Christophe&layout=compact&langs_count=5&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOUNAZIA-Christophe&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOUNAZIA-Christophe&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Me contacter
+
+Tu veux collaborer ou discuter d’un projet ?  
+*Email* : vounaziachistoph@gmail.com  
+*GitHub* : [github.com/VOUNAZIA-Christophe](https://github.com/VOUNAZIA-Christophe)
+
+---
+
+<p align="center">
+  Merci de visiter mon profil ! 🌟
 </p>
